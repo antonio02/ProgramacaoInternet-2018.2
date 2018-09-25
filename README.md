@@ -11,6 +11,7 @@ Nome: Antonio de Aquino Vieira Filho
 
 * Java
 * Python
+* SQL
 * Criação de aplicações para Android (Java)
 
 #### Interesses acadêmicos e profissionais:
