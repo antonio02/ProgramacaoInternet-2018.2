@@ -9,7 +9,7 @@ Nome: Antonio de Aquino Vieira Filho
 
 #### Habilidades:
 
-* Java, C++, Python.
+* Java, Python.
 * Criação de aplicações para Android (Java)
 
 #### Interesses acadêmicos e profissionais:
